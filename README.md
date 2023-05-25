@@ -15,4 +15,4 @@
 * Подключен сервер для работы с сайтом
 
 ## Ссылка на GitHub Pages:
-* https://filippp0.github.io/mestonew/
+* https://filippp0.github.io/mestoOOPwithServer/
