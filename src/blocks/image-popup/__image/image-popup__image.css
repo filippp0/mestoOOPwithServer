@@ -1,0 +1,12 @@
+.image-popup__image {
+  display: block;
+  max-width: 75vw;
+  max-height: 75vh;
+  color: var(--main-color);
+}
+
+@media screen and (max-height: 420px) {
+  .image-popup__image{
+  max-height: 65vh;
+  }
+}

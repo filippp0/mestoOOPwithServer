@@ -1,0 +1,10 @@
+.elements__image {
+  width: 100%;
+  aspect-ratio: 1/1;
+  display: block;
+  object-fit: cover;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  color: var(--main-color);
+  cursor: pointer;
+}

@@ -1,0 +1,13 @@
+.elements__rectangle {
+  padding-left: 21px;
+  padding-right: 20px;
+  background-color: var(--main-color);
+  min-height: 79px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  display: grid;
+  grid-template-columns: 1fr 22px;
+  row-gap: 3px;
+  align-content: center;
+}
+

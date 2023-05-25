@@ -1,0 +1,12 @@
+.image-popup__image-caption {
+  max-width: 75vw;
+  overflow-x: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  align-self: flex-start;
+  padding-top: 10px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14.52px;
+  color: var(--main-color);
+}

@@ -1,0 +1,13 @@
+.elements__subtitle {
+  align-self: center;
+  margin: 0;
+  overflow-x: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 29.05px;
+  color: var(--dark-color);
+  grid-row-start: 1;
+  grid-row-end: 3;
+}
